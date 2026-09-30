@@ -19,19 +19,19 @@
 
 ## BOM 요약
 
-| 부품명 | 수량 | 주요 스펙 | 단가 |
-|---|---|---|---|
-| NU54V-DK (nRF54L15) | 1 | BLE 6.0, RISC-V, 1.5 MB Flash | 보유 |
-| NEMA17 (스텝모터) | 2 | 홀딩토크 0.45 N·m, 정격전류 1.68 A, 축 5 mm D컷 | 당근 개당 ≈5,000원 |
-| LM-NK112810H (리니어모터) | 1 | 홀딩토크 0.08 N·m, 정격전류 1.0 A, 리드 2 mm | 보유 |
-| TMC2209 (모터드라이버) | 3 | 입력 4.75–29 V, 출력 2 A(rms) | 3개 7,720원 |
-| 풀리+타이밍벨트 세트1 | 1 | 20T+80T, Bore 5 mm, 둘레 200 mm | 5,000원 |
-| 풀리+타이밍벨트 세트2 | 1 | 20T+80T, Bore 5 mm, 둘레 600 mm | 10,650원 |
-| 베어링 | 4 | TBD | TBD |
-| 샤프트 | 4 | 8 mm × 250 mm | 개당 2,940원 |
-| 어댑터+파워코드 | 1 | DC 24 V / 10 A / 240 W | 32,000원 |
-| 전원분배기 | 1 | TBD | TBD |
-| 볼트·너트 | A/R | TBD | TBD |
+| 부품명 | 수량 | 주요 스펙 | 단가 | 구매링크 |
+|---|---|---|---|---|
+| NU54V-DK (nRF54L15) | 1 | BLE 6.0, RISC-V, 1.5 MB Flash | 보유중 | [구매링크](https://nucode.store/product/nu-54v-dk-nucode-nrf54l15-ble-60-mcu-kcfcccemic/36/category/25/display/1/) |
+| NEMA17 (스텝모터) | 2 | 홀딩토크 0.45N·m, 정격전류 1.68A, 축 5mm D컷 | 당근 개당 5,000원 | [구매링크](https://www.daangn.com/kr/buy-sell/3d%ED%94%84%EB%A6%B0%ED%84%B0-%EB%B6%80%ED%92%88-%EC%8A%A4%ED%85%9D%EB%AA%A8%ED%84%B0-nema17-42x42x40-x6zqgp2kz57q/) |
+| LM-NK112810H (리니어모터) | 1 | 홀딩토크 0.08N·m, 정격전류 1.0A, 리드 2mm | 보유중 | [구매링크](https://www.eleparts.co.kr/goods/view?no=12590652) |
+| TMC2209 (모터드라이버) | 3 | 입력전압 4.75~29V, 출력전류 2Arms | 3개 7,720원 | [구매링크](https://ko.aliexpress.com/item/1005013143000418.html?spm=a2g0o.productlist.main.7.67786378f4Z1aO&algo_pvid=3071cdfc-c576-4166-9eda-170de1a1f4dd&algo_exp_id=3071cdfc-c576-4166-9eda-170de1a1f4dd-50&pdp_ext_f=%7B%22order%22%3A%2214%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21KRW%218358%213200%21%21%2140.07%2115.34%21%402102f7bd17907198361538595e1007%2112000060375998046%21sea%21KR%216198991175%21X%211%210%21n_tag%3A-29919%3Bd%3Ad5bd85a6%3Bm03_new_user%3A-29895&curPageLogUid=AOluLIZpZTNK&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005013143000418%7C_p_origin_prod%3A) |
+| 풀리+타이밍벨트 세트1 | 1 | 20T+80T Bore 5mm, 둘레 200mm | 5,000원 | [구매링크](https://www.aliexpress.com/ssr/300000512/kr2024update?spm=a2g0o.productlist.main.1.60db52dbUmWzr0&productIds=1005009031079273%3A12000047647637145&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009031079273%7C_p_origin_prod%3A&pvid=de6f2d3a-dbc0-4770-93da-d760cb07c983&_gl=1*m7m4tt*_gcl_aw*R0NMLjE3OTA3MTgxNjMuQ2p3S0NBand3LTNWQmhBY0Vpd0F3VVVJdTV0UFdGYno3VVRnME0zVWZzRGFZLS1Xa0Z1dkZKaTRPdXRhaW9pcTROdlgwTmVoMWdZTWNob0NDMjRRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3ODcwMzQyMDcuQ2owS0NRanc0b3JVQmhDakFSSXNBSWJGM3F6VXZVRExPbFBkZHhvY1N3T1NlUDJqbkYzZ1JOWmtLOG5xeldVZjdwQ2VZRFl3ZllrSXM3Y2FBaEw3RUFMd193Y0I.*_gcl_au*ODk0NzM4OTgzLjE3ODY5NDcwMjY.*_ga*MjE0MDEyMDQzLjE3NzgzOTQyMzE.*_ga_VED1YSGNC7*czE3OTA3MTgxNTgkbzg2JGcxJHQxNzkwNzIwMTM2JGo1MSRsMCRoMA..) |
+| 풀리+타이밍벨트 세트2 | 1 | 20T+80T Bore 5mm, 둘레 600mm | 10,650원 | [구매링크](https://ko.aliexpress.com/item/1005006604776321.html?spm=a2g0o.productlist.main.4.60db52dbUmWzr0&algo_pvid=de6f2d3a-dbc0-4770-93da-d760cb07c983&algo_exp_id=de6f2d3a-dbc0-4770-93da-d760cb07c983-5&pdp_ext_f=%7B%22order%22%3A%2210%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21KRW%2121300%2110650%21%21%21102.12%2151.06%21%402141147417907201357088615e0ea4%2112000037795844763%21sea%21KR%216198991175%21X%211%210%21n_tag%3A-29919%3Bd%3Ad5bd85a6%3Bm03_new_user%3A-29895&curPageLogUid=MDAvPL5hmmf0&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006604776321%7C_p_origin_prod%3A) |
+| 베어링 | 4 | TBD | TBD | - |
+| 샤프트 | 4 | 8mm × 250mm | 개당 2,940원 | [구매링크](https://ko.aliexpress.com/item/1005009602708021.html?spm=a2g0o.productlist.seoads.1.244d70ffU9TX1J&p4p_pvid=20260929153835863656539272520000592039_1&_gl=1*w4wl9j*_gcl_aw*R0NMLjE3OTA3MTgxNjMuQ2p3S0NBand3LTNWQmhBY0Vpd0F3VVVJdTV0UFdGYno3VVRnME0zVWZzRGFZLS1Xa0Z1dkZKaTRPdXRhaW9pcTROdlgwTmVoMWdZTWNob0NDMjRRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3ODcwMzQyMDcuQ2owS0NRanc0b3JVQmhDakFSSXNBSWJGM3F6VXZVRExPbFBkZHhvY1N3T1NlUDJqbkYzZ1JOWmtLOG5xeldVZjdwQ2VZRFl3ZllrSXM3Y2FBaEw3RUFMd193Y0I.*_gcl_au*ODk0NzM4OTgzLjE3ODY5NDcwMjY.*_ga*MjE0MDEyMDQzLjE3NzgzOTQyMzE.*_ga_VED1YSGNC7*czE3OTA3MTgxNTgkbzg2JGcxJHQxNzkwNzIxNTMxJGoyOSRsMCRoMA..&gatewayAdapt=glo2kor) |
+| 어댑터+파워코드 | 1 | DC 24V 10A 240W | 32,000원 | [구매링크](https://smartstore.naver.com/loadus/products/3971527519?NaPm=ct%3Dmunaa6z4%7Cci%3D4f5db6106cfe481bd8c83a677bd80e3e06a62801%7Ctr%3Dslsl%7Csn%3D438942%7Chk%3Da43812bce2353b07e45ef83db0bbc730dade34dd&nl-au=1bc7ad9e4e364508be88133f46d746e0&nl-query=24V+6.3A%2F24V+6.25A+%EB%AA%A8%EB%93%9C%EC%BB%B4+%EC%A0%84%EC%9A%A9+150W+%EA%B5%AD%EC%82%B0%EB%A1%9C%EB%8D%94%EC%8A%A4%EC%96%B4%EB%8C%91%ED%84%B0) |
+| 전원분배기 | 1 | TBD | TBD | - |
+| 볼트·너트 | A/R | TBD | TBD | - |
 
 ---
 
